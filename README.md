@@ -267,11 +267,6 @@ CGPA: **9.2 / 10**
 
 ---
 
-# 🎯 Career Objective
-
-Seeking a Data Analyst role where I can apply analytical thinking, Python, SQL, Power BI, and Excel skills to solve business problems and support data-driven decision-making.
-
----
 
 # 🌐 Connect With Me
 
