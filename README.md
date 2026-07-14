@@ -153,7 +153,7 @@ Python • Machine Learning
 
 ## Data Science Intern
 
-**InfoZ Solutions, Secunderabad**
+**InfoZ IT Solutions, Secunderabad**
 
 **Feb 2026 – Apr 2026**
 
