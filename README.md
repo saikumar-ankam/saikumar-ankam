@@ -245,6 +245,16 @@ CGPA: **9.2 / 10**
 
 ---
 
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikumarankam1212-pixel&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=saikumarankam1212-pixel&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarankam1212-pixel&layout=compact&theme=tokyonight)
+
+---
+
 # 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
