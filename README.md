@@ -247,7 +247,13 @@ CGPA: **9.2 / 10**
 
 # 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=saikumar-ankam&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saikumar-ankam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-ankam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 
 ---
