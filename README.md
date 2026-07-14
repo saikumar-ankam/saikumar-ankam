@@ -248,11 +248,11 @@ CGPA: **9.2 / 10**
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikumarankam1212-pixel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saikumar-ankam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarankam1212-pixel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-ankam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=saikumar-ankam&theme=tokyonight)
