@@ -253,6 +253,12 @@ CGPA: **9.2 / 10**
   <img src="https://streak-stats.demolab.com?user=saikumar-ankam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saikumar-ankam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
 ---
 
