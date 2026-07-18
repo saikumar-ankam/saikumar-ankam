@@ -245,16 +245,6 @@ CGPA: **9.2 / 10**
 
 ---
 
-# 📊 GitHub Stats
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saikumar-ankam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 # 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
